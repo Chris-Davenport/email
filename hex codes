@@ -1,0 +1,12 @@
+Correct:
+
+[html]
+<td class="text" style="color:#ffffff; background: #000000;> </td>
+
+[/html]
+Incorrect:
+
+[html]
+<td class="text" style="color:#fff; background: #000;> </td>
+
+[/html]
